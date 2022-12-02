@@ -1,0 +1,65 @@
+{
+    "Player02": {
+        "checkpoints": [
+            {
+                "steps": 500039,
+                "file_path": "results\\CatchFirst03\\Player02\\Player02-500039.onnx",
+                "reward": -0.2777777777777778,
+                "creation_time": 1669900791.0674968,
+                "auxillary_file_paths": [
+                    "results\\CatchFirst03\\Player02\\Player02-500039.pt"
+                ]
+            },
+            {
+                "steps": 1999950,
+                "file_path": "results\\CatchFirst03\\Player02\\Player02-1999950.onnx",
+                "reward": 0.7368421052631579,
+                "creation_time": 1669903280.0985613,
+                "auxillary_file_paths": [
+                    "results\\CatchFirst03\\Player02\\Player02-1999950.pt"
+                ]
+            },
+            {
+                "steps": 2000014,
+                "file_path": "results\\CatchFirst03\\Player02\\Player02-2000014.onnx",
+                "reward": 0.7368421052631579,
+                "creation_time": 1669903280.1782343,
+                "auxillary_file_paths": [
+                    "results\\CatchFirst03\\Player02\\Player02-2000014.pt"
+                ]
+            },
+            {
+                "steps": 3499986,
+                "file_path": "results\\CatchFirst03\\Player02\\Player02-3499986.onnx",
+                "reward": 1.0,
+                "creation_time": 1669908922.2527754,
+                "auxillary_file_paths": [
+                    "results\\CatchFirst03\\Player02\\Player02-3499986.pt"
+                ]
+            },
+            {
+                "steps": 3500007,
+                "file_path": "results\\CatchFirst03\\Player02\\Player02-3500007.onnx",
+                "reward": 1.0,
+                "creation_time": 1669908922.3317308,
+                "auxillary_file_paths": [
+                    "results\\CatchFirst03\\Player02\\Player02-3500007.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3500007,
+            "file_path": "results\\CatchFirst03\\Player02.onnx",
+            "reward": 1.0,
+            "creation_time": 1669908922.3317308,
+            "auxillary_file_paths": [
+                "results\\CatchFirst03\\Player02\\Player02-3500007.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.7.0+cu110"
+    }
+}
