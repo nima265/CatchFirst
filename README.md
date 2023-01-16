@@ -1,4 +1,4 @@
-# Catch First
+# Catch First!
 
 A search and found zero player game using ML-Agent.
 I was able to by using ML-Agent package and [Code Monkey](https://www.youtube.com/@CodeMonkeyUnity) tutorials, Learning an Agent on a Custom map to catching goals.
@@ -21,7 +21,7 @@ You can see more information in the chart below
 
 ![Screenshot 2022-12-03 002608](https://user-images.githubusercontent.com/50208317/205384797-c2868dbb-a3ee-4846-baa5-4dd346d4056d.png)
 
-# installations
+# installation
  ml-agents: 0.29.0
  <br />ml-agents-envs: 0.28.0
  <br />Communicator API: 1.5.0
@@ -29,7 +29,7 @@ You can see more information in the chart below
  <br />Unity: 2020.3.14
 
 
-# Futures
+# Future
 
 1.I want to turn this into a chatch first game and pit the player against the agent
 <br />2.I want to make this agent smarter and increase its routing probability
